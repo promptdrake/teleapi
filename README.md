@@ -82,6 +82,32 @@ Example result
 ```/sendMessage?chat_id=&message=```
 
 example result
+```json
+{
+    "status": true,
+    "message": "Succesfully send message",
+    "response": {
+        "ok": true,
+        "result": {
+            "message_id": 12648,
+            "from": {
+                "id": 6360863408,
+                "is_bot": true,
+                "first_name": "Aisbir Sense",
+                "username": "Aisbircubecheckout_bot"
+            },
+            "chat": {
+                "id": 1550087439,
+                "first_name": "Aisbirkoenz chat di wa biar di balas",
+                "username": "aisbirkoenz",
+                "type": "private"
+            },
+            "date": 1724688318,
+            "text": "hi"
+        }
+    }
+}
+```
 
 ## Ban User
 ```/ban?id=```
