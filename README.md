@@ -3,7 +3,7 @@ Action: GET<br>
 endpoint: type /generatekey on your bot
 
 ## Get Stock info
-``/getProduk``
+```/getProduk```
 Example result
 ```json
 {
