@@ -23,3 +23,11 @@ Example result
     ]
 }
 ```
+
+## Get Info Bot
+```/getInfo```
+
+Example result
+```json
+tes
+```
