@@ -4,6 +4,7 @@ endpoint: type /generatekey on your bot
 
 ## Get Stock info
 ```/getProduk```
+
 Example result
 ```json
 {
