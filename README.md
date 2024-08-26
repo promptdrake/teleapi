@@ -79,7 +79,7 @@ Example result
 ```
 
 ## Private Dm User
-```/sendMessage```
+```/sendMessage?chat_id=&message=```
 
 example result
 
