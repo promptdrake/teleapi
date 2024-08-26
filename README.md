@@ -38,3 +38,13 @@ tes
 ```/sendMessage```
 
 example result
+
+## Ban User
+```/ban?id=```
+
+example result
+
+## unban User
+```/ban?id=```
+
+example result
