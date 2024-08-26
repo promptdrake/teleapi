@@ -3,7 +3,9 @@ Action: GET<br>
 endpoint: type /generatekey on your bot
 
 ## Get Stock info
-```/getProduk```
+```/getProduk?itemid=&amount=```
+
+
 
 Example result
 ```json
@@ -31,3 +33,8 @@ Example result
 ```json
 tes
 ```
+
+## Private Dm User
+```/sendMessage```
+
+example result
